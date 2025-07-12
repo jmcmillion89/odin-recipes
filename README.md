@@ -28,9 +28,7 @@ This is a basic recipe website that displays a list of three recipes. Each recip
 - Clean and modern design
 - Fully clickable recipe cards
 
-## 🗂️ Folder Structure
-
-<pre> ``` odin-recipes/ ├── css/ │ └── style.css ├── images/ │ └── *.webp (recipe images from AllRecipes) ├── recipes/ │ ├── avocado-toast.html │ ├── hotdogs-eggs.html │ └── pesto-tortellini.html ├── index.html └── README.md ``` </pre>
+<pre> ## 🗂️ Folder Structure ``` odin-recipes/ ├── css/ │ └── style.css ├── images/ │ └── avocado-toast.webp │ └── hotdogs-eggs.webp │ └── pesto-tortellini.webp ├── recipes/ │ ├── avocado-toast.html │ ├── hotdogs-eggs.html │ └── pesto-tortellini.html ├── index.html └── README.md ``` </pre>
 
 
 ## 🧠 What I Learned

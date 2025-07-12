@@ -20,7 +20,7 @@ a {
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .container {
@@ -59,4 +59,14 @@ a:hover {
 .recipe-card h3 {
   padding: 1rem;
   margin: 0;
+}
+
+header a {
+  color: white;
+  font-weight: bold;
+  transition: color 0.2s ease;
+}
+
+header a:hover {
+  color: #ffe0b2;
 }

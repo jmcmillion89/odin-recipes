@@ -30,17 +30,7 @@ This is a basic recipe website that displays a list of three recipes. Each recip
 
 ## 🗂️ Folder Structure
 
-odin-recipes/
-├── css/
-│ └── style.css
-├── images/
-│ └── *.webp (recipe images)
-├── recipes/
-│ ├── avocado-toast.html
-│ ├── hotdogs-eggs.html
-│ └── pesto-tortellini.html
-├── index.html
-└── README.md
+<pre> ``` odin-recipes/ ├── css/ │ └── style.css ├── images/ │ └── *.webp (recipe images from AllRecipes) ├── recipes/ │ ├── avocado-toast.html │ ├── hotdogs-eggs.html │ └── pesto-tortellini.html ├── index.html └── README.md ``` </pre>
 
 
 ## 🧠 What I Learned

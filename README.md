@@ -53,13 +53,6 @@ odin-recipes/
 - How to apply CSS animations and transitions
 - Importance of clean, readable code
 
-## 🚀 Future Improvements
-
-- Add more recipes with a dynamic layout
-- Implement a dark mode toggle
-- Make it mobile-first and more responsive
-- Use JavaScript for search or filtering
-
 ## 📚 Content Credit
 
 All images and recipe content (ingredients and steps) were sourced from [AllRecipes.com](https://www.allrecipes.com/) and are used here for educational, non-commercial purposes only.
